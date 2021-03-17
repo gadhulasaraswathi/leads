@@ -93,7 +93,7 @@ export default function FormPage() {
                </Row>
                <Row>
                    <Col>
-                   <Button variant="primary" type="submit">
+                   <Button variant="primary" type="submit" className="button">
                         Submit
                     </Button>
                    </Col>

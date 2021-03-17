@@ -1,5 +1,5 @@
 .top_nav_navbar{
-    position: absolute;
+    position: relative;
     background-color: #fff;
     height: 8%;
 }
@@ -13,7 +13,6 @@
 }
 .top_navbar_nav{
    position: relative;
-   left: 1340px;
     padding-right: 20px;
 }
 .top_nav_belllogo{
@@ -24,21 +23,21 @@
 .top_navbar_form{
     padding-right: 20px;
 }
-.leads{
+/* .leads{
     position: relative;
     top: 100px;
     left: 200px;
-}
-.select{
+} */
+/* .select{
     position: relative;
     top: 72px;
     left: 240px;
-}
-.button-holder {
+} */
+/* .button-holder {
     display: flex;
-  }
+  } */
   
-  .theme-button-light {
+  /* .theme-button-light {
     height: 25px;
     width: 60px;
     border-radius: 10%;
@@ -70,6 +69,6 @@
   
   .theme-button-dark:hover {
     background-color: #1a202c;
-  }
+  } */
   
   

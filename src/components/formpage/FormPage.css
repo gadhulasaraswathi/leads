@@ -45,3 +45,7 @@
     height: 55px;
     width: 100%;
 }
+.button{
+    position: relative;
+    top: 70px;
+}

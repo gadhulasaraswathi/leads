@@ -1,0 +1,17 @@
+{
+    "plan": [
+        { "id": 1, "name":"1 month ", "amount": 3000 },
+        { "id": 2, "name":"6 month ", "amount": 3000  },
+        { "id": 3, "name":"1 year ", "amount": 3000 },
+        { "id": 4, "name":"3 years ", "amount": 3000 }
+
+
+]
+}
+
+      
+
+
+
+
+

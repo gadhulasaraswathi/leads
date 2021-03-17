@@ -1,0 +1,12 @@
+.button{
+    position: relative;
+    top: 50px;
+
+}
+.toggle_button{
+   margin: 20px;
+   width: 90px;
+   height: 60px;
+   /* background-color:rgb(155, 147, 211); */
+}
+
